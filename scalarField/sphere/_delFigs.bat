@@ -1,0 +1,2 @@
+del *.eps
+del *.pdf
